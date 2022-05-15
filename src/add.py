@@ -1,4 +1,4 @@
-def add(x:int, y:int=100) -> int:
+def add(x:str, y:str) -> str:
     """
     Add two numbers together.
 
